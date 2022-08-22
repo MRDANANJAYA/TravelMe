@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TravelMe</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="yourmail">Yourmail.example.com</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="title_activity_usermenu">Usermenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">Welcome</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_Traveling">Traveling</string>
+    <string name="menu_Restaurants">Restaurants</string>
+    <string name="menu_Hospital">Hospitals</string>
+    <string name="home_second">Home Second</string>
+    <string name="lodge">Lodge</string>
+    <string name="logout">Logout</string>
+    <string name="menu_Rateus">Rate Us</string>
+    <string name="pas_dots">⬤⬤⬤⬤⬤⬤⬤⬤</string>
+    <string name="about_us"> About Us</string>
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+
+
+    <!--Catagory menu-->
+    <string-array name="Catagory">
+        <item>House</item>
+        <item>Villas</item>
+        <item>cottages</item>
+
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="advertisement">Advertisement</string>
+    <string name="gallery">Gallery</string>
+</resources>

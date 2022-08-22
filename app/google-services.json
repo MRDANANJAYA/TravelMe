@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079322998148",
+    "firebase_url": "https://travleme-86947.firebaseio.com",
+    "project_id": "travleme-86947",
+    "storage_bucket": "travleme-86947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079322998148:android:964ee6dcef1d1fcaa959d1",
+        "android_client_info": {
+          "package_name": "com.example.travelme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079322998148-n4quspan503jp1p1f9fuarfchck56a32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelme",
+            "certificate_hash": "427df16bce6e45e85f934f947d60f33f2a542357"
+          }
+        },
+        {
+          "client_id": "1079322998148-d8umhanmlbc8k7a7ns4voluvh1v3ivot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBto5LT_0Nbgpa2MHctND4YTImQC9Jap7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079322998148-d8umhanmlbc8k7a7ns4voluvh1v3ivot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
